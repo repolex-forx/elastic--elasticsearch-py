@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/elastic/elasticsearch-py/commit/ba53123a99f31797a5e438e4563dbfc5c3568713",
       "git:hexsha": "ba53123a99f31797a5e438e4563dbfc5c3568713",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/elastic/elasticsearch-py/commit/f60e340f0cc33198bd824b0e07e97e12a12eaf6f",
